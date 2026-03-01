@@ -2,7 +2,7 @@
 
 Строка 1. branch1. new
 
-Строка 2. branch1.
+Строка 2. branch1. new
 
 Строка 3. branch1.
 

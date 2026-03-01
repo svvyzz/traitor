@@ -1,6 +1,6 @@
 # Traitor
 
-Строка 1. branch1.
+Строка 1. branch1. new
 
 Строка 2. branch1.
 

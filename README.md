@@ -4,6 +4,8 @@
 
 Изменение 2. branch2.
 
+Изменение 3. branch2.
+
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)

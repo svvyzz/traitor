@@ -2,7 +2,7 @@
 
 Изменение 1. branch2.
 
-Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
+Изменение 2. branch2.
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock

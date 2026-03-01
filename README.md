@@ -2,9 +2,9 @@
 
 Изменение 1. branch2.
 
-Изменение 2. branch2.
+Строка 2. branch1.
 
-Изменение 3. branch2.
+Строка 3. branch1.
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock

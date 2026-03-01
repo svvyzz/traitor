@@ -4,7 +4,7 @@
 
 Строка 2. branch1. new
 
-Строка 3. branch1.
+Строка 3. branch1. new
 
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
